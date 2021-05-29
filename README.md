@@ -7,6 +7,6 @@ The program returns one of two possible values:
 - amount of clicks (int).
 
 Parameters:
-pin - pin number (BCM)
-time_to_wait - waiting time between short taps, the program counts the taps if the time has passed.
-time_longpush - time " pressed and hold" 
+- pin - pin number (BCM)
+- time_to_wait - waiting time between short taps, the program counts the taps if the time has passed.
+- time_longpush - time " pressed and hold" 
