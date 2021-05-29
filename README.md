@@ -5,6 +5,7 @@ Different functions can be associated with different types of button clicks.
 The program returns one of two possible values: 
 - "long_push" (str); 
 - amount of clicks (int).
+
 Parameters:
 pin - pin number (BCM)
 time_to_wait - waiting time between short taps, the program counts the taps if the time has passed.
